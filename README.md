@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About: Evar Sorfor
 🔭 I’m currently working on ELII-Cameroun<br>👯 I’m looking to collaborate on Market Link Project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about Web & Mobile App Dev<br>⚡ Fun fact
 
 
