@@ -1,5 +1,5 @@
 # 💫 About: Evar Sorfor
-🔭 I’m currently working on UB's Digital Logbook<br>👯 I’m looking to collaborate on Xplor<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about Web & Mobile App Dev<br>⚡ Fun fact
+🔭 I’m currently working on UB's Digital Logbook<br>👯 I’m looking to collaborate on Ophix Core<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about Full Development & System Design<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
